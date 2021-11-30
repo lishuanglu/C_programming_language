@@ -1,0 +1,4 @@
+/Users/lishuanglu/Documents/计算机知识/C_programming_language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lishuanglu/Documents/计算机知识/C_programming_language/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lishuanglu/Documents/计算机知识/C_programming_language/cmake-build-debug/CMakeFiles/1-1.dir
+/Users/lishuanglu/Documents/计算机知识/C_programming_language/cmake-build-debug/CMakeFiles/C_programming_language.dir
